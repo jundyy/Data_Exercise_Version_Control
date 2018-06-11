@@ -24,3 +24,5 @@ products = [
 ] # based on data from Instacart: https://www.instacart.com/datasets/grocery-shopping-2017
 
 print(products)
+
+print(products[1]["name"])
